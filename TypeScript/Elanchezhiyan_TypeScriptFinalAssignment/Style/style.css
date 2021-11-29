@@ -1,0 +1,14 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color: brown;
+    text-align: center;
+}
+#optionDiv,#courseDiv,#enrollDiv{
+    display: none;
+}
+button{
+    background-color: blueviolet;
+    margin: 20px 20px;
+}
